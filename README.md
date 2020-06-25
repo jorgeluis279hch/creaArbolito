@@ -1,6 +1,6 @@
 # Crea Arbolito
 	
-## ntes compilar el archivo
+## Antes compilar el archivo
 
   $javac MainFile.java 
   
@@ -13,5 +13,5 @@ o puede ser tambien aqui nos pedira el numero de filas
   $java MainFile
   
   
-! [terminal](.shell.png)
+ ! [terminal](./shell.png)
   
