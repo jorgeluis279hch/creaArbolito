@@ -12,5 +12,5 @@ o puede ser tambien aqui nos pedira el numero de filas
 
   $java MainFile
   
-![terminal] (./shell.png)
+! [terminal] (./shell.png)
   
