@@ -1,10 +1,10 @@
 # Crea Arbolito
 	
-## antes compilar el archivo
+## ntes compilar el archivo
 
   $javac MainFile.java 
   
-## ejecutar el archivo
+## Ejecutar el archivo
 
   $java MainFile 6
  
